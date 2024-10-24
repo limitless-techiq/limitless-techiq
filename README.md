@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @limitless-techiq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Limitless Tech
 
-<!---
-limitless-techiq/limitless-techiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Limitless Tech** is an innovative IT solutions company that specializes in providing top-tier services in website development, software development, product design, and application development. Our mission is to empower businesses with cutting-edge technology and cost-effective solutions.
+
+## Core Values
+- **Customer Centricity:** We prioritize quality, cost, and prompt service to ensure customer satisfaction.
+- **Business Ethics:** We maintain transparency, fairness, and honesty in all transactions.
+- **Innovation:** We continuously strive to innovate and improve processes.
+
+## Services
+- Web Development & Design
+- Application Development & UI/UX
+- Product Management
+- Hosting Solutions
+- Graphic Design
+
+## Contact
+- **Location:** Syria, Homs, City Center 2, Office 404
+- **Email:** info@limitless-tech.cloud
+- **Phone:** +963 986 223 268
+
+For more information, visit [Limitless Tech](https://limitless-tech.cloud/).
